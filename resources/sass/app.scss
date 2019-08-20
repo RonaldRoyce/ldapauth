@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.card-header {
+   background-color: #37c3ea!important;
+}
+
+.card-border { 
+	border: 1px solid gray!important;
+}
+
